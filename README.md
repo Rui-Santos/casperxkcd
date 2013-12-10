@@ -7,3 +7,5 @@ from given start number
 <code>
   user@host ~/casperxkcd 22:18 ~> casperjs casperxkcd.js 1300
 </code>
+
+![alt](http://images.inagile.org/casperxkcd.png)
